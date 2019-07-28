@@ -1,16 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
+Since I was a kid I have always tried to solve problems with data, hoping to gather enough information to find patterns and make observations that would lead to solutions for the world's ills (or maybe just my own). I graduated from the University of Minnesota - Twin Cities with a degree in English: Literature. I also took several courses in Psychology and Conservation Biology. Currently I am studying data science at Lambda School. 
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
